@@ -1,2 +1,2 @@
-# joshmckinneydotme
+# joshmckinneydotonline
 Personal Resume Website
